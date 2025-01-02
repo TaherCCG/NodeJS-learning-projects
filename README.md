@@ -6,6 +6,16 @@ I enrolled in the ["NodeJS Tutorial and Projects Course"](https://www.udemy.com/
 
 I'll also be using the [Node.js documentation](https://nodejs.org/docs/latest/api/) to further my understanding and ensure I grasp all the concepts thoroughly.
 
+### Other Documentations
+
+[course-api.com](https://www.course-api.com/)
+
+[npmjs](https://docs.npmjs.com/)
+
+[Nodesource](https://docs.nodesource.com/)
+
+[Event Loop](https://nodejs.org/en/learn/asynchronous-work/event-loop-timers-and-nexttick)
+
 ## What is NodeJS?
 
 The way I see it, NodeJS is an environment that allows you to run JavaScript outside of a web browser. Launched in 2009, NodeJS is built on Chrome's V8 JavaScript engine, which is responsible for converting our code to machine code in the browser. Each browser has its own engine, and Chrome's is called V8. Since its creation, NodeJS has grown remarkably. What stands out about NodeJS is its vast community, which can save significant time during development. Plus, NodeJS simplifies the process of building full-stack applications, as you can use JavaScript for both the front end and back end, making everything more streamlined.

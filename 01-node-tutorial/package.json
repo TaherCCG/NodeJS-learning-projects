@@ -1,14 +1,17 @@
 {
   "name": "nodejs-learning-projects",
   "version": "1.0.0",
-  "description": "## Why I Took This Course",
+  "description": "NodeJS Learning Projects",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon app.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.3.3"
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
   }
 }
