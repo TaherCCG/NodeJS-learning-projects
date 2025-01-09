@@ -6,7 +6,7 @@ I enrolled in the ["NodeJS Tutorial and Projects Course"](https://www.udemy.com/
 
 I'll also be using the [Node.js documentation](https://nodejs.org/docs/latest/api/) to further my understanding and ensure I grasp all the concepts thoroughly.
 
-### Other Documentations
+### Documentations
 
 [course-api.com](https://www.course-api.com/)
 
