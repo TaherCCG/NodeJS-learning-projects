@@ -9,3 +9,8 @@ const dashboard = async (req, res) => {
     secret: `Here is your lucky number: ${luckyNumber}`,
   });
 };
+
+module.exports = {
+  login,
+  dashboard,
+};
